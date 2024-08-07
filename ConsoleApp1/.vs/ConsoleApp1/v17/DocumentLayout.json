@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\DotNet\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D87A928E-6E3A-4B32-B25D-4DDC595E66AB}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code\\dotnet\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87A928E-6E3A-4B32-B25D-4DDC595E66AB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87A928E-6E3A-4B32-B25D-4DDC595E66AB}|ConsoleApp1\\ConsoleApp1.csproj|d:\\code\\dotnet\\consoleapp1\\consoleapp1\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D87A928E-6E3A-4B32-B25D-4DDC595E66AB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 728,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\Code\\DotNet\\ConsoleApp1\\ConsoleApp1\\Model.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Model.cs",
+              "ToolTip": "D:\\Code\\DotNet\\ConsoleApp1\\ConsoleApp1\\Model.cs",
+              "RelativeToolTip": "ConsoleApp1\\Model.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAADgv+kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-01T07:47:24.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\DotNet\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Code\\DotNet\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAIUEAAAAAAAAAIAwwJ0EAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-09-16T02:57:08.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
